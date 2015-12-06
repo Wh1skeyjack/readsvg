@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3336"
+   version="1.1"
+   width="3264"
+   height="2448"
+   viewBox="0 0 3264 2448"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="map01a.svg">
+  <defs
+     id="defs3485" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview3376"
+     showgrid="false"
+     inkscape:zoom="1.7549019"
+     inkscape:cx="810.63877"
+     inkscape:cy="515.28656"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3336" />
+  <metadata
+     id="metadata3342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <image
+     sodipodi:absref="J:\pokusy\SuperAwesomeGame\src\superawesomegame\resources\map01a.jpg"
+     xlink:href="map01a.jpg"
+     width="3264"
+     height="2448"
+     preserveAspectRatio="none"
+     id="image3344"
+     x="0"
+     y="0"
+     style="image-rendering:optimizeQuality"
+     sodipodi:insensitive="true" />
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path3334"
+     d="m 699.55033,1298.2803 0.64831,300.8815 100.04699,0.6483 -2.59322,-102.3527 408.26319,1.2966 -2.5932,100.4078 99.5099,2.5932 -1.2966,-101.2785 97.3425,0 0.6483,-99.9358 -599.12357,-3.2415 0,-97.1852 -100.8526,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4194">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4144"
+     d="m 701.4661,1699.8559 0,299.517 695.6314,0 0,-97.8941 -97.8941,0 0,-200.3263 -97.2458,0 0,202.9195 -403.24573,0 0,-204.8644 -97.24577,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4198">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4146"
+     d="m 1501.4746,1900.1822 -0.6483,95.9492 397.411,0 0,-94.0043 -100.4873,0 0,-200.9746 -95.9492,0.6483 10e-5,77.7967 -5.8348,42.7881 -14.2627,35.0085 -31.1187,26.5805 -53.161,18.1525 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4202">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4148"
+     d="m 2001.3178,1902.1271 3.2415,95.9492 395.4661,0 0,-98.5424 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4206">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4150"
+     d="m 2501.161,1900.1822 1.9449,97.2458 193.195,0.6483 1.9449,-195.7882 -96.5975,0 0,97.8941 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4210">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4152"
+     d="m 2602.2966,1498.233 0,103.7289 95.9492,0 0,-300.1653 -95.9492,0 0,97.2458 -101.7839,0 0,97.894 101.7839,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4182">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4154"
+     d="m 2000.6695,1398.3941 0,102.4322 103.0805,0 0.6483,37.6017 c 66.2818,-15.7177 131.2222,-11.3157 195.7882,-1.2966 l 0.6483,-38.8984 101.1355,0 0,-97.2457 -102.4322,0 0,-99.839 -100.4872,0 0,101.1356 -59.515,1.4967 -1.3881,27.9542 -42.8833,3.7551 -2.4337,-34.0119 -92.1613,0.8059 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccc">
+    <title
+       id="title4186">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4156"
+     d="m 2000.6695,999.68644 200.3263,0 0,98.54236 101.1356,0 0,-599.68219 300.1652,0 0,300.16525 99.1907,0 0,-397.41102 -1198.7161,0 0,98.54238 199.0297,0 0,401.30084 -199.0297,0 0,97.24577 197.0847,0 0,101.78387 101.1356,0 0,-103.72879 100.4873,0 0,-95.94915 -101.1356,0 0,-401.94915 401.3009,0 0,402.59745 -202.2712,0 0,98.54238 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4174">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4158"
+     d="m 2601,901.14406 0,301.46184 97.2458,0 0,-299.51692 -97.2458,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4178">wall</title>
+  </path>
+  <path
+     onload=""
+     onfocusout=""
+     onfocusin=""
+     onmousemove=""
+     onmouseup=""
+     onmousedown=""
+     onmouseout=""
+     onmouseover=""
+     onclick="0"
+     id="path4160"
+     d="m 701.38401,798.60152 0,299.80728 98.10208,-0.9169 0,-99.01885 601.44831,0.91684 0.9168,-102.68629 -99.0189,0 0,-98.10208 -99.9358,0 0,101.76945 -402.49357,0 0,-99.93577 -99.01892,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4166">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4162"
+     d="m 698.63349,696.83208 101.76944,0.91684 0,-200.78837 402.49357,0 -0.9168,203.5389 98.102,-0.91685 0,-200.78836 103.6032,0 -0.9168,-98.10208 -702.30093,-0.91685 0,297.05677 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4170">wall</title>
+  </path>
+  <path
+     onmouseover=""
+     onclick="0"
+     id="path4164"
+     d="m 1498.1196,1398.2161 0,99.0189 205.3725,0 0,102.6863 96.2684,0 0,-102.6863 101.7695,0 0,-96.2684 -102.6863,0 0,-99.9357 -99.0189,0 0,100.8526 -201.7052,0 z"
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+    <title
+       id="title4190">wall</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:2.99956989;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 729.25048,1098.6355 0,197.1649 21.6471,0 0,-196.0254 -21.6471,0 z"
+     id="path4180"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3494">Entry door. Ornamented and heavy. Strong enough to withstand storms much heavier than the one outside.</desc>
+    <title
+       id="title4220">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.09441662;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 693.55002,1602.4148 0,94.4988 103.16673,0 0,-95.6373 -103.16673,0 z"
+     id="path4182"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3529">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4222">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.2782352;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1900.5302,1902.6712 0.5698,103.2762 100.0123,0 -2.2793,-102.7063 z"
+     id="path4186"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccc">
+    <desc
+       id="desc3533">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4242">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.25447965;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2402.5151,1962.7912 0,41.6631 98.9474,0 -0.5698,-104.7103 -99.5173,0 z"
+     id="path4188"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3535">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4240">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.16835713;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2607.0675,1702.7565 -5.6984,96.2585 105.861,0.5698 0,-197.1319 -105.861,1.1397 z"
+     id="path4190"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3537">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4238">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.08745718;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2602.4683,801.79792 -1.1397,97.92371 108.8889,0 -1.1397,-98.49354 z"
+     id="path4194"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccc">
+    <desc
+       id="desc3541">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4234">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3.11616135;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1401.8458,392.19416 1.1397,109.57457 98.4648,-0.56983 0.5698,-110.23579 -100.1743,0 z"
+     id="path4196"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3543">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4224">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:5.96908998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1202.1833,701.15824 0,93.28657 91.4995,0 0,-91.0387 -91.4995,0 z"
+     id="path4198"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <desc
+       id="desc3518">Heavy latch for locking the doors from the inside. Seems installed recently.</desc>
+    <title
+       id="title4226">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450982;stroke:#ffff00;stroke-width:3.17621017;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1401.8758,944.87023 0,20.47602 98.9746,0 0,-20.47602 z"
+     id="path4200"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4228">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:2.76096487;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1400.5643,1425.8001 -0.5698,74.1512 95.8993,-2.2794 0,-96.7268 -95.3295,0.5698 z"
+     id="path4202"
+     inkscape:connector-curvature="0"
+     onclick="100"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3520"> A wave of smell washes over you as you open the door. It’s horrible enough to make you physically shudder. It is the stench of death and rot.</desc>
+    <title
+       id="title4248">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:3.05654955;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1268.0849,1603.536 0,93.3966 -20.1236,0 0,-94.5356 20.1236,0 z"
+     id="path4204"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4246">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:3.09224129;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1729.1131,1605.8327 0,92.2218 25.4525,0 0,-93.3604 -23.0284,0 0,1.1386 z"
+     id="path4206"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4250">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:2.56609368;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1903.5354,1423.0131 0.5698,23.1818 95.0055,0.5699 -0.5698,-22.0913 0.066,-1.4165 z"
+     id="path4208"
+     inkscape:connector-curvature="0"
+     onclick="100"
+     sodipodi:nodetypes="cccccc">
+    <title
+       id="title4252">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:3.2620399;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2403.6841,1425.0458 0,18.9168 94.3302,0 0,-18.9168 z"
+     id="path4210"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4254">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2255.3967,1100.9162 0,196.0223 -20.514,0 0,-194.8826 20.514,0 z"
+     id="path4212"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4232">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450988;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1906.6592,949.34078 0,17.09497 90.0335,0 0,-19.3743 -90.0335,0 z"
+     id="path4214"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4230">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:2.77460337;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1402.1022,1961.2311 0,41.2471 95.2968,0 0.5698,-102.6476 -97.0063,1.1396 z"
+     id="path4216"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3531">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title4244">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450982;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 805.86471,504.25431 0,190.18408 95.8979,0 0,-190.18408 z"
+     id="path4256"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3508">Cloth bound handful of wedding cookies hidden under the pillow.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 913.04472,507.47777 0,32.23459 52.38121,0 0,-33.04045 -52.38121,0 z"
+     id="path4258"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3498">Nights stand. Candle. Small praying book in the drawer.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1039.5655,508.28364 0,32.23459 48.3519,0 0,-32.23459 z"
+     id="path4260"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3516">Night stand. Whetstone and a small knife made shiny and thin by constant sharpening.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1101.6171,507.47777 0,189.37821 94.2861,0 0,-190.98994 -94.2861,0 z"
+     id="path4262"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3512">Sheets are stained and smelly. Not repulsive, but not exactly clean.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1195.0974,849.97027 0,42.71083 -87.0334,0 0,-42.71083 z"
+     id="path4264"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3514">High leather boots. Black leather apron. Fishing pole and a box of baits.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1094.3643,850.77614 0,41.90496 -88.6451,0 0,-41.90496 z"
+     id="path4266"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3510">One small rugged dress. Five empty hangers.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.71884513;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 835.20346,810.41378 -28.08411,28.61878 62.37632,53.43214 28.59471,-29.13912 -62.37631,-53.43214 z"
+     id="path4270"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3678">Chest. Twenty eight ducats inside along with a ????</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1358.6879,647.69824 17.729,-17.72903 22.5642,-24.17594 4.8352,-40.29324 -37.0697,-24.17594 -24.176,11.28211 -9.6704,-40.29324 -4.0293,24.98181 -20.1466,-24.17594 12.088,54.7988 -6.447,29.01113 4.8352,22.56421 8.0587,19.34075 8.8645,0 4.0293,8.05865 z"
+     id="path4272"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccc"
+     onclick="0">
+    <desc
+       id="desc3500">Beautiful wedding dress of soft creamy color. Lacing seems torn. Few blood droplets sully the skirt.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1414.2926,591.2877 30.6228,13.6997 12.8939,-18.53489 14.5037,1.87742 -1.6021,18.15975 10.0933,20.80028 -2.204,22.55166 47.5483,-3.80626 29.6046,11.24682 5.442,-27.09462 -1.9876,-23.87026 -6.2409,-16.21682 16.052,-2.8421 15.3114,-16.92316 -4.0293,-34.65218 -21.7583,-14.50557 -128.1325,0.80587 -13.6997,12.08797 -6.447,21.75834 8.0587,16.92316 z"
+     id="path4274"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccccccccccccccccccc">
+    <desc
+       id="desc3502">Wooden washbowl, scrubbing board and blood stained sheets. Water smells stale and rotten.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1612.5353,562.27657 20.1466,29.01113 33.0405,9.67038 23.37,-39.48737 -50.7695,-37.87565 z"
+     id="path4278"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     onclick="0"
+     onmouseout="You breath a small cloud of mist into the cold room. Maybe there is something else around here."
+     onmouseover="Pretentious style and the smell are a bit uncomfortable, but the dress will at least help you keep some of the heat.">
+    <desc
+       id="desc3506">Large woven laundry basket. Would you like to dress in an unwashed clothes?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1701.1804,667.03899 -57.2164,0 0,165.20226 56.4105,0 0,-165.20226 z"
+     id="path4280"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3504">Worktable with a bowl of crystallized sandarac, bottled linseed oil, burner, two rough brushes and a narrow file.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1595.6121,842.71749 0,53.99294 -91.0627,0 0,-50.76948 91.0627,0 z"
+     id="path4282"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3496">Tool closet. Inside a selection of woodworking and a few gardening tools, including an axe.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 940.44412,1093.3414 0,208.719 562.49358,0 0,-211.1366 -562.49358,0 z"
+     id="path4286"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <desc
+       id="desc3488">Once expensive oriental carpet worn down by time and dust.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1101.3322,1019.3485 -22.2305,1.1886 -27.3756,7.472 0,9.19 15.303,15.3114 52.0572,-3.3212 18.3562,-18.2012 0.098,-5.3477 z"
+     id="path4288"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccccccc">
+    <desc
+       id="desc3484">Family banner. Deep green background with a silver manticore.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1054.2736,1367.3118 0.944,6.8044 28.1816,6.1047 31.5922,-0.8547 26.3253,-7.9442 -1.3756,-7.7737 -16.5488,-16.8742 -48.7277,3.7039 z"
+     id="path4294"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccccccc">
+    <desc
+       id="desc3486">Family banner. Deep green background with a silver manticore.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1546.4544,1020.8136 116.0445,0 8.0586,24.9818 -6.4469,26.5936 -116.0445,-10e-5 -10.4762,-30.6228 z"
+     id="path4296"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     onclick="50"
+     onmouseover=""
+     onmouseout="">
+    <desc
+       id="desc3490">Padded wooden bench.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1543.2309,1381.8409 120.8797,-0.8058 4.8352,-27.3994 -9.6704,-23.3701 -117.6562,2.4176 -6.4469,23.3701 z"
+     id="path4298"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     onclick="50">
+    <desc
+       id="desc3492">Padded wooden bench with nail marks along the armrests.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 804.25298,1502.7207 0,51.5753 395.67962,0 0,-52.3812 -395.67962,0 z"
+     id="path4300"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     onmouseover="Even the camembert and smoked sausages couldn’t overpower the stench from cook’s body. But at least you are no longer hungry. "
+     onmouseout="Your stomach is voting otherwise, but okay.">
+    <desc
+       id="desc3546">Food rack. Salted meat, salami, vegetables, fruits, honey and more. Some is starting to rot, but there is still a lot of good food. Eat?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1108.064,1845.2132 25.7067,30.6564 25.8449,17.9581 35.1968,-9.4834 1.753,-93.1007 -22.3297,-9.0023 -44.4134,7.3672 z"
+     id="path4304"
+     inkscape:connector-curvature="0"
+     onclick="50"
+     sodipodi:nodetypes="cccccccc">
+    <desc
+       id="desc3544">Sacks of flour.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 859.05178,1841.9897 -39.48737,-8.8645 -16.11729,17.729 0.80587,35.4581 21.75834,12.8938 18.53489,0.8059 25.78767,-24.9818 z"
+     id="path4310"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccccc">
+    <desc
+       id="desc3680">Barrel half filled with candles. Various colors and sizes.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1301.4715,1699.3517 82.1982,0 0,199.0486 -83.0041,0 0,-199.0486 z"
+     id="path4314"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3538">Flour-sprinkled kitchen table. Cutting board, a knife, plate with fruits, three mold-ridden strudels.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1551.2896,1746.8977 0,54.7988 54.7988,0 0,-54.7988 z"
+     id="path4316"
+     inkscape:connector-curvature="0"
+     onclick="20">
+    <desc
+       id="desc3524">Small table. Plate, rotten meat, wide bottle of what seems to be barbecue sauce.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1672.9751,1704.9927 0,90.2569 28.2053,0 0,-91.8686 -28.2053,0 z"
+     id="path4318"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3536">Shelf. Packs, pouches and vials for various spices.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1693.1218,1805.7258 -40.2933,5.6411 -30.6228,27.3994 -16.1173,34.6522 -8.0587,25.7876 48.3519,-16.9231 31.4287,-24.9818 15.3115,-37.0698 z"
+     id="path4320"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3526">Built in grill.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1421.5454,1889.5358 76.5571,-2.4176 14.5056,-16.9232 0,-13.6997 -16.9232,-15.3114 -66.8868,0 -17.729,12.0879 -0.8059,19.3408 z"
+     id="path4322"
+     inkscape:connector-curvature="0"
+     onclick="20">
+    <desc
+       id="desc3540">Empty washbowl. Thin layer of white-blue mold on the bottom.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1354.6586,1511.5852 -22.5642,-9.6704 -18.5349,4.8352 -4.0293,23.3701 8.0586,20.1466 23.3701,4.0293 18.5349,-16.9231 z"
+     id="path4324"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3532">Barrel. Empty. Smells of oil.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1369.1641,1505.1383 -8.8645,12.088 12.088,10.4762 13.6997,-5.6411 1.6117,-13.6997 z"
+     id="path4326"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3534">Bucket.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1605.2825,1507.5559 0,38.6815 21.7584,8.0586 49.1577,3.2235 19.3408,-12.088 -2.4176,-38.6815 z"
+     id="path4328"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3522">Cupboard. Selection of both fine cutlery and porcelain dishes.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1581.9124,1501.9148 -66.9538,2.2793 5.4218,9.8087 50.2499,8.8645 18.5349,-7.2528 z"
+     id="path4332"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3530">Pair of wall hangers. Apron on one of them.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1387.699,1739.6449 17.7291,4.0293 11.2821,27.3994 -16.9232,30.6229 20.1466,10.4762 13.6997,-25.7876 29.0112,-1.6118 30.6228,-32.2345 -17.729,-19.3408 28.2053,-85.4217 -15.3115,-3.2234 -10.4762,43.5167 -19.3408,-10.4763 8.8645,-25.7876 -20.1466,-12.088 -5.641,64.4692 -18.5349,47.546 -13.6997,-19.3408 -18.5349,-5.641 z"
+     id="path4336"
+     inkscape:connector-curvature="0"
+     onclick="50"
+     onmouseover="Bloated corpse releases all kinds of liquids and gasses as you turn it over. There are no signs of struggle, just two stab wounds in the back just below the ribs. "
+     onmouseout="His surprised wide eyes will surely visit you again in dreams. No need to disturb the dead any more. ">
+    <desc
+       id="desc3528">Corpse of a man. Cooking apron, round features and short black hair stuck to a puddle of dried blood. Examine the body?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2118.6183,1543.0139 72.5279,28.2053 40.2932,-2.4176 53.1871,-28.2053 -42.7109,-9.6703 -79.7806,0.8058 z"
+     id="path4338"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     onmouseover="Radiating heat slowly relaxes your muscles."
+     onmouseout="You are wet and cold. But maybe staying unnoticed is worth it. Who knows who could see the smoke.  ">
+    <desc
+       id="desc3566">Arched fireplace. Wood burned all the way to the ashes. Do you want to start a fresh fire?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2538.4738,1520.4497 -1.6117,5.6411 -3.2234,19.3407 22.5641,31.4288 29.8171,-16.1173 0,-31.4288 -14.5056,-13.6997 z"
+     id="path4340"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc"
+     onclick="0">
+    <desc
+       id="desc3548">Glorious plate armor. Looks only decorative on the closer inspection. The thin metal is polished iron and tin and the gilding is just bronze instead of gold.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.98826551;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1997.7328,1699.3459 0,99.9389 402.1382,0 0,-100.7449 -402.1382,0 z"
+     id="path4342"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3550">Uncomfortably long dining table for a dinner in two. One side looks much better attended, various meals flow from plate to plate all bitten once or twice and left to rot. Horsewhip casually leans on the side.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.90217185;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2022.6715,1828.2426 0,50.8658 55.7025,0 0,-51.6731 -55.7025,0 z"
+     id="path4346"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3554">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.82386947;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2123.3655,1816.9255 0,48.5224 53.3632,0 0,-50.1398 -53.3632,0 z"
+     id="path4348"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3556">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.97989082;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2228.1766,1820.9641 0,54.0459 50.0422,0 0,-51.4722 -50.0422,0 z"
+     id="path4350"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3558">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2321.6963,1822.6489 0,54.7988 54.7988,0 0,-57.2164 -54.7988,0 z"
+     id="path4352"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3560">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.81077123;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2420.723,1723.433 0,54.988 54.988,0 0,-54.988 z"
+     id="path4354"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3562">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:1.96402299;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1884.6764,1756.6477 19.0507,47.5911 48.2233,-18.419 -18.8562,-47.1054 -48.2234,18.4189 z"
+     id="path4356"
+     inkscape:connector-curvature="0"
+     onclick="50">
+    <desc
+       id="desc3552">Padded chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2309.6083,1507.5559 0,37.8756 84.6158,0 0,-37.8756 z"
+     id="path4358"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3568">Firewood rack.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2163.7468,1693.7106 16.1172,-29.817 -172.455,-88.6451 -33.0405,81.3924 87.8393,39.4873 z"
+     id="path4360"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <desc
+       id="desc3564">Carpet. Thick and warm.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2342.0112,1337.9665 -22.7933,14.8156 1.1396,25.0726 20.514,10.257 27.352,-7.9776 0,-26.2123 z"
+     id="path4362"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3636">Tall decorative vase. Empty.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2536.8939,1336.8268 -18.2347,20.514 6.838,22.7933 14.8157,6.838 26.2122,-12.5363 -2.2793,-28.4917 z"
+     id="path4364"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3634">Tall decorative vase. Empty.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2599.3799,1033.7709 0,90.4106 -17.176,-0.8058 -2.4176,-143.93157 19.5936,-0.80587 z"
+     id="path4366"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3632">Lord Waylan Korsh enjoying his grand hunt. Horses and dogs racing through the forest after an unknown prey.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3.22178149;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2298.2412,964.26651 0,70.43539 23.6018,-0.8034 -0.9324,-69.96474 -22.6694,-0.8033 z"
+     id="path4368"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3626">Portrait of a beautiful young lady. Blond hair barely covering sad and swolen eyes.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:2.75844646;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2300.8577,867.17149 0,68.61201 18.711,0.80418 -0.8133,-69.85666 -17.8977,-0.70306 z"
+     id="path4370"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3628"> Portrait of a tall well dressed woman. She looks ambitious and competent but stares into nothing like a broken child or a veteran soldier.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3.1116724;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2300.4686,764.77446 0,71.68361 17.9694,0 -0.8271,-70.83883 z"
+     id="path4372"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccc">
+    <desc
+       id="desc3630">Portrait of a girl. Chubby and cute, big eyes, curly hair. Her smile is a little too forced and the corset looks painfully tight.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2304.4022,702.03352 91.1732,-1.13966 0,-105.98883 110.5475,1.13966 1.1397,104.84916 93.4525,0 -1.1397,-201.72066 -296.3128,1.13966 0,201.72067 z"
+     id="path4374"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc"
+     onclick="80"
+     onmouseover="PORT map01a.svg:START">
+    <desc
+       id="desc3638">Sandarac polished oak stairs. Want to go upstairs?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2132.3129,674.68156 36.4692,21.65363 -34.1899,56.98324 -37.609,-19.3743 10.257,-38.7486 z"
+     id="path4378"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc"
+     onclick="20">
+    <desc
+       id="desc3666">Bar cabinet. Box of tobacco, few bottles of brandy.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2054.8156,713.43017 2040,736.22346 l 0,100.2905 -19.3743,2.27933 -18.2346,-55.84357 -15.9553,4.55866 -12.5364,-14.81564 -61.5419,27.35195 -7.9776,-18.23464 54.7039,-34.18994 20.514,-50.14525 -34.19,-45.58659 11.3967,-10.25699 27.3519,28.49162 19.3743,6.83799 26.2123,-33.05028 14.8157,4.55866 -3.419,38.74861 52.4245,9.11731 -3.4189,13.67598 z"
+     id="path4380"
+     inkscape:connector-curvature="0"
+     onclick="100"
+     onmouseover="">
+    <desc
+       id="desc3547">bear skin rug</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2140.2905,822.83799 7.9777,0 29.6312,19.3743 -17.0949,35.32961 -38.7486,-13.67598 z"
+     id="path4382"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3660">Stuffed bear.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2018.3464,591.48603 -12.5364,-5.69832 -15.9552,-4.55866 -14.8157,12.53631 2.2793,25.07263 26.2123,12.53631 19.3743,-18.23464 z"
+     id="path4384"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc"
+     onclick="20">
+    <desc
+       id="desc3676">Short round table with a pipe and invitation to an antique auction.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2041.1397,609.72067 28.0847,29.99778 36.1079,20.29963 25.7501,-13.24153 11.4874,-34.77655 -12.5363,-39.88827 -45.5866,-14.81564 -41.0279,22.79329 z"
+     id="path4386"
+     inkscape:connector-curvature="0"
+     onclick="50"
+     sodipodi:nodetypes="ccccccccc">
+    <desc
+       id="desc3658">Cushioned chair.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1969.3408,502.59218 -52.4246,-2.27933 18.2346,47.86592 17.095,-1.13967 z"
+     id="path4388"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3662">Head of a large catfish.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1802.9497,523.10614 3.419,47.86593 37.609,-17.09498 2.2793,-17.09497 z"
+     id="path4390"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3670">Boar head.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1804.0894,602.88268 0,26.21229 23.9329,-13.67598 z"
+     id="path4392"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3664">Fox head.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1806.3687,668.98324 9.1173,15.95531 19.3743,-34.18995 33.0503,13.67598 -23.9329,2.27933 -12.5364,17.09497 33.0503,13.67598 -4.5586,13.67598 -29.6313,3.41899 3.419,19.3743 35.3296,-5.69832 -21.6537,22.79329 -28.4916,-9.11731 -6.838,-17.09498 -7.9776,2.27933 z"
+     id="path4394"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     onmouseover="PORT map01b.svg:TOMB"
+     onmouseout="&quot;Maybe later then.&quot;">
+    <desc
+       id="desc3668">Deer head flinches and bares it’s teeth as you come close. It has empty glass eyes, but the rest seems perfectly animated and alive. Nostrils flare, ears twitch and jaw moves naturally as it speaks “Greetings master, you wish to join the dead?”</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1877.0279,893.49721 -11.3966,-11.39666 7.9776,-20.51396 -25.0726,-30.77095 -10.257,-1.13966 -11.3966,34.18994 -12.5363,4.55866 15.9553,15.95531 -13.676,13.67597 z"
+     id="path4396"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc"
+     onclick="0">
+    <desc
+       id="desc3672">Large boar head and torso.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3.17468786;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2036.4412,895.74385 -14.6552,-27.0946 -11.2733,25.80439 z"
+     id="path4410"
+     inkscape:connector-curvature="0"
+     onclick="0" />
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2066.2123,868.42458 -11.3967,28.49162 30.771,1.13966 z"
+     id="path4412"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3674">Fish head.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2699.2963,1248.5027 -0.5699,50.1452 -96.3016,0.5698 -1.1397,-92.8826 97.4413,0.5698 z"
+     id="path4366-2"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccc">
+    <desc
+       id="desc3539">Window shutters are closed. The storm is raging outside.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2080.8877,1512.7716 2.2794,17.3617 18.5152,0 -1.1397,-16.222 z"
+     id="path4358-7"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="ccccc">
+    <desc
+       id="desc3568-8">Fire poker.</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.27450986;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1935.1677,1215.1088 12.0643,27.4191 33.4394,22.9563 32.9994,-0.079 26.5991,-13.9118 19.6743,-23.5042 7.9777,-34.19 -10.8036,-31.5332 -27.6819,-23.5216 -38.992,-6.9571 -21.4913,8.6043 -22.7782,19.1271 -10.2013,24.3001 z"
+     id="path4214-7"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     sodipodi:nodetypes="cccccccccccccc"
+     onmouseover="">
+    <desc
+       id="desc3624">Marble statue of a serious man. Proud face, strong posture, long coat. The ancient hunting spear is of black iron and inseparable from the statue. The text says “Lord Waylan Korsh, master of the five hills.”</desc>
+    <title
+       id="title4230-1">door</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3.0447998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 690.60968,698.48329 108.77897,0 0,99.89583 -105.45747,0 0,-99.89583 z"
+     id="path3532"
+     inkscape:connector-curvature="0"
+     onclick="0">
+    <desc
+       id="desc3545">Window shutters are closed. The storm is raging outside.</desc>
+    <title
+       id="title3534">window</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:1.84260893;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2096.6844,1400.2001 0,30.9744 39.033,0 0,-30.9744 z"
+     id="path4358-8"
+     inkscape:connector-curvature="0"
+     onclick="0"
+     onmouseover="kabzuuum, elfaport, lower level"
+     onmouseout="Wise, maybe it's just a trap.">
+    <desc
+       id="desc3568-0">Hidden in plain sight. One of the stones is a button for a secret entrance. Push it and enter?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#00ff00;fill-opacity:0.2745098;stroke:#00ff00;stroke-width:2.09255314;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 795.85015,1203.7356 -15.98743,29.8818 31.21356,-0.83 z"
+     id="path3535"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4337">START</title>
+  </path>
+  <path
+     style="opacity:1;fill:#ff0000;fill-opacity:0.2745098;stroke:#ff0000;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 2599.0058,696.33503 -88.8939,-2.84915 1e-4,-101.43019 -115.1062,0.56984 -1.7095,117.95532 15.9553,0 -0.5698,-105.98884 84.3352,0 1.1396,105.98883 105.4191,-4.55865 z"
+     id="path3537"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="opacity:1;fill:#ffff00;fill-opacity:0.2745098;stroke:#ffff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 950.11455,1850.0483 0,-49.9636 -46.74015,0 0,99.9273 98.3155,0 0,-98.3155 -51.57535,0"
+     id="path4341"
+     inkscape:connector-curvature="0"
+     onmouseover="PORT map01b.svg:CELLAR"
+     onclick="80"
+     onmouseout="Is't it just your fear talking?">
+    <title
+       id="title4345">CELLAR</title>
+    <desc
+       id="desc4343">Cellar entrance. Do you want to go down there?</desc>
+  </path>
+  <path
+     style="opacity:1;fill:#00ff00;fill-opacity:0.2745098;stroke:#00ff00;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1916.9164,707.73173 -14.8157,33.05028 28.4916,0 z"
+     id="path4347"
+     inkscape:connector-curvature="0"
+     onclick="100">
+    <title
+       id="title4349">TOMB</title>
+  </path>
+</svg>
