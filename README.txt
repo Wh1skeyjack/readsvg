@@ -1,7 +1,7 @@
 ﻿
 
 # readsvg
-, just few javascripts to read .svg file
+just few javascripts to read .svg file
 
 ------------------------------------------------------------------------------------
 
@@ -29,8 +29,9 @@ it reads .svg file, and creates array of NodeSVG objects.
 
 
 
-//TODO 
-script for spatial table class, for faster detection algorithm.
+//TODO
+-convert svgPath to abs coords
+-script for spatial table class, for faster detection algorithm.
 
 ------------------------------------------------------------------------------------
 
