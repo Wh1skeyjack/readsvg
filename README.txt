@@ -16,7 +16,6 @@ it reads .svg file, and creates array of NodeSVG objects.
 ------------------------------------------------------------------------------------
 
 //TODO
--convert svgPath to abs coords
 -script for spatial table class, for faster detection algorithm.
 ------------------------------------------------------------------------------------
 
