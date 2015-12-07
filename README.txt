@@ -15,8 +15,16 @@ Script creating ReadSVG class,
 it reads .svg file, and creates array of NodeSVG objects.
 ------------------------------------------------------------------------------------
 
+spatialtable.js
+
+Script creating SpatialTable class.
+It stores objects in table, so when you need to check for collision,
+you need to check only objects in same cell.
+------------------------------------------------------------------------------------
+
 //TODO
--script for spatial table class, for faster detection algorithm.
+-few more functions for SpatialTable
+function to get nodes from SpatialTable need a little tweak
 ------------------------------------------------------------------------------------
 
 Copyright (c) 2015 Marian Rohoška (marian.rohoska@seznam.cz)

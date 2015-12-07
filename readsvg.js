@@ -5,8 +5,13 @@
  * see LICENSE.txt for license rights and limitations of The MIT License (MIT)
  */
 
-function ReadSVG(path) {
+// Constructor for ReadSVG class
+function ReadSVG() {
 	this.objects = [];
+}
+
+// save objects from .svg file (path) into ReadSVG.objects
+ReadSVG.prototype.readFile = function(path) {
 	var req = new XMLHttpRequest();
 	req.open("GET" , path, false);
 	req.send();
@@ -24,8 +29,9 @@ function ReadSVG(path) {
 			obj.setPassable(true);
 		this.objects.push(obj);
 	}
-}
+};
 
+// returns all ReadSVG.objects (type: NodeSVG)
 ReadSVG.prototype.getObjects = function() {
 	return this.objects;
 };

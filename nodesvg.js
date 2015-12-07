@@ -15,16 +15,16 @@ function NodeSVG() {
 
 // Set coordsX and coordsY from SVG Path
 NodeSVG.prototype.setCoords = function(svgPath) {
-	for (var i = 0, l = svgPath.numberOfItems; i<l; ++i) {
+	for (var i = 0, l = svgPath.numberOfItems; i<l; i++) {
 		var seg = svgPath.getItem(i);
 		switch (seg.pathSegType) {
 			case  3:	//move to
-				this.coordsX.push(Math.round(seg.x));
-				this.coordsY.push(Math.round(seg.y));
+				this.coordsX.push(seg.x);
+				this.coordsY.push(seg.y);
 				break;
 			case 5:		//line to
-				this.coordsX.push(this.coordsX[0] + Math.round(seg.x));
-				this.coordsY.push(this.coordsY[0] + Math.round(seg.y));
+				this.coordsX.push(this.coordsX[0] + seg.x);
+				this.coordsY.push(this.coordsY[0] + seg.y);
 				break;
 		}
 	}
