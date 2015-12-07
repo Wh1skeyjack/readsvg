@@ -13,15 +13,14 @@ function ReadSVG(path) {
 	var svgObjs = req.responseXML.getElementsByTagName("path");
 	for (var i = 0, l = svgObjs.length; i < l; i++) {
 		var obj = new NodeSVG();
-		obj.setCoords(svgObjs[i].getAttribute("d"));
+		obj.setCoords(svgObjs[i].pathSegList);
 		try {
 			obj.setDescription(svgObjs[i].getElementsByTagName("desc")[0].textContent);
 		} catch(e) {
 			//svg file have no empty tags if "desc" tag missing -> exception
-			//number of other tags is also variable, so i dont know about way to test it before operation
 			//obj.getDescription() is null by default, and no need to change it on exception
 		}
-		if (svgObjs[i].getAttribute("onclick") > 0)		//using inkscape attributes, in "onclick" is saved if object is passable
+		if (svgObjs[i].getAttribute("onclick") > 0)		//using inkscape attributes, in "onclick" attribute is stored if object is passable
 			obj.setPassable(true);
 		this.objects.push(obj);
 	}

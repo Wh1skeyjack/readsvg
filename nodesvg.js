@@ -15,10 +15,19 @@ function NodeSVG() {
 
 // Set coordsX and coordsY from SVG Path
 NodeSVG.prototype.setCoords = function(svgPath) {
-	//TODO need to convert from svgPath to abs coords
-	//just for test:
-	this.coordsX = [42, 24];
-	this.coordsY = [24, 42];
+	for (var i = 0, l = svgPath.numberOfItems; i<l; ++i) {
+		var seg = svgPath.getItem(i);
+		switch (seg.pathSegType) {
+			case  3:	//move to
+				this.coordsX.push(Math.round(seg.x));
+				this.coordsY.push(Math.round(seg.y));
+				break;
+			case 5:		//line to
+				this.coordsX.push(this.coordsX[0] + Math.round(seg.x));
+				this.coordsY.push(this.coordsY[0] + Math.round(seg.y));
+				break;
+		}
+	}
 };
 
 // <<<<<<<<<< regular setters for NodeSVG >>>>>>>>>>
