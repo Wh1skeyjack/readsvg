@@ -14,7 +14,7 @@ function SpatialTable(cellSize) {
 		this.cellSize = 20;
 }
 
-// return key for x, y coordinates
+// return key for x, y indexes
 SpatialTable.prototype.getKey = function(indexX, indexY) {
 	//no need to get SpatialTable.length or go through table, so no need for real hash function
 	return indexX + "," + indexY;
