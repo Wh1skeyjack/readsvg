@@ -7,31 +7,50 @@
 
 // Constructor for ReadSVG class
 function ReadSVG() {
-	this.objects = [];
+	this.nodes = [];
 }
 
-// save objects from .svg file (path) into ReadSVG.objects
+// save nodes from .svg file (path) into ReadSVG.nodes
 ReadSVG.prototype.readFile = function(path) {
 	var req = new XMLHttpRequest();
 	req.open("GET" , path, false);
 	req.send();
-	var svgObjs = req.responseXML.getElementsByTagName("path");
-	for (var i = 0, l = svgObjs.length; i < l; i++) {
-		var obj = new NodeSVG();
-		obj.setCoords(svgObjs[i].pathSegList);
+	var svgNodes = req.responseXML.getElementsByTagName("path");
+	for (var i = 0, l = svgNodes.length; i < l; i++) {
+		var node = new NodeSVG();
+		node.setCoords(svgNodes[i].pathSegList);
+		node.setId(svgNodes[i].getAttribute("id"));
 		try {
-			obj.setDescription(svgObjs[i].getElementsByTagName("desc")[0].textContent);
+			node.setDescription(svgNodes[i].getElementsByTagName("desc")[0].textContent);
 		} catch(e) {
 			//svg file have no empty tags if "desc" tag missing -> exception
 			//obj.getDescription() is null by default, and no need to change it on exception
 		}
-		if (svgObjs[i].getAttribute("onclick") > 0)		//using inkscape attributes, in "onclick" attribute is stored if object is passable
-			obj.setPassable(true);
-		this.objects.push(obj);
+		if (svgNodes[i].getAttribute("onclick") > 0)		//using inkscape attributes, in "onclick" attribute is stored if object is passable
+			node.setPassable(true);
+		this.nodes.push(node);
 	}
 };
 
-// returns all ReadSVG.objects (type: NodeSVG)
-ReadSVG.prototype.getObjects = function() {
-	return this.objects;
+// returns all ReadSVG.nodes (type: NodeSVG)
+ReadSVG.prototype.getNodes = function() {
+	return this.nodes;
+};
+
+// true - return all passable nodes; false - return all not passable nodes
+ReadSVG.prototype.getPassableNodes = function(passable) {
+	var reqNodes = [];
+	for (var i = 0, l = this.nodes.length; i < l; i++)
+		if (this.nodes[i].isPassable() == passable)
+			reqNodes.push(this.nodes[i]);
+	return reqNodes;
+};
+
+// return all nodes with description
+ReadSVG.prototype.getDescNodes = function() {
+	var reqNodes = [];
+	for (var i = 0, l = this.nodes.length; i < l; i++)
+		if (this.nodes[i].getDescription() != null)
+			reqNodes.push(this.nodes[i]);
+	return reqNodes;
 };

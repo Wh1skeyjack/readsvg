@@ -5,31 +5,46 @@
  * see LICENSE.txt for license rights and limitations of The MIT License (MIT)
  */
 
-var firstdiv = document.getElementById("firstdiv");
 var printme = document.getElementById("print");
-var read = new ReadSVG();
-read.readFile("map.svg");
-var objects = read.getObjects();
-var table = new SpatialTable(50);
+var walls = new SpatialTable(102);
+var objects = new SpatialTable(102);
 
+readFile("map.svg");
+printSplit("objects from area between points [800, 800] [1100, 1100]");
+printArrayOfNodes(objects.getNodesFromArea(800, 800, 1100, 1100));
+printSplit("walls from area between points [800, 800] [1100, 1100]");
+printArrayOfNodes(walls.getNodesFromArea(800, 800, 1100, 1100));
+printSplit("objects from area near point [1100, 1100]");
+printArrayOfNodes(objects.getNodesFromCoords(1100, 1100));
+printSplit("walls from area near point [1100, 1100]");
+printArrayOfNodes(walls.getNodesFromCoords(1100, 1100));
 
-for (var i = 0, l = objects.length; i < l; i++) {
-	if (objects[i].getDescription() != null) {
+function readFile(path) {
+	var file = new ReadSVG();
+	file.readFile(path);
+	walls.addNodes(file.getPassableNodes(false));
+	objects.addNodes(file.getDescNodes());
+}
+
+function printArrayOfNodes(nodes) {
+	for (var i = 0, l = nodes.length; i < l; i++) {
 		var newDiv = document.createElement("div");
 		var span1 = document.createElement("span");
 		var span2 = document.createElement("span");
-		span1.textContent = objects[i].getCoordsX() + " & " + objects[i].getCoordsY() + " & " + objects[i].isPassable();
-		span2.textContent = objects[i].getDescription();
+		var span3 = document.createElement("span");
+		span1.textContent = nodes[i].getDescription() + " & " + nodes[i].isPassable();
+		span2.textContent = "x: " + nodes[i].getCoordsX();
+		span3.textContent = "y: " + nodes[i].getCoordsY();
 		newDiv.appendChild(span1);
 		newDiv.appendChild(span2);
+		newDiv.appendChild(span3);
 		printme.appendChild(newDiv);
 	}
 }
 
-for (var i = 0, l = objects.length; i < l; i++)
-	table.addNode(objects[i]);
-
-var div1 = document.createElement("div");
-var testobject = table.getNodesFromCoords(1000, 1000)[2];
-div1.innerHTML = testobject.getCoordsX() + "<br>" + testobject.getDescription() + "<br><br>";
-firstdiv.appendChild(div1);
+function printSplit(text) {
+	var newDiv = document.createElement("div");
+	var split = "--------------------------------------------------------------------------------";
+	newDiv.textContent = split + " " + text + " " + split;
+	printme.appendChild(newDiv);
+}

@@ -3,10 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>testing page</title>
-	<style>div {margin: 5px;} span {display: block;}</style>
+	<style>
+		div {padding: 5px;}
+		div:nth-child(even) {background: #f0f0f0;}
+		span {display: block;}
+	</style>
 </head>
 <body>
-	<div id="firstdiv"></div>
 	<div id="print"></div>
 	<script src="nodesvg.js"></script>
 	<script src="readsvg.js"></script>

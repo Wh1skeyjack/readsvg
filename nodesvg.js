@@ -9,20 +9,24 @@
 function NodeSVG() {
 	this.coordsX = [];
 	this.coordsY = [];
+	this.id = null;
 	this.desc = null;
 	this.passable = false;
 }
 
 // Set coordsX and coordsY from SVG Path
 NodeSVG.prototype.setCoords = function(svgPath) {
-	for (var i = 0, l = svgPath.numberOfItems; i<l; i++) {
+	for (var i = 0, l = svgPath.numberOfItems; i < l; i++) {
 		var seg = svgPath.getItem(i);
+		seg.x = Math.round(seg.x);
+		seg.y = Math.round(seg.y);
 		switch (seg.pathSegType) {
-			case  3:	//move to
+			case 2:	//move to
+			case 3:	//move to
 				this.coordsX.push(seg.x);
 				this.coordsY.push(seg.y);
 				break;
-			case 5:		//line to
+			case 5:	//line to
 				this.coordsX.push(this.coordsX[0] + seg.x);
 				this.coordsY.push(this.coordsY[0] + seg.y);
 				break;
@@ -38,6 +42,10 @@ NodeSVG.prototype.setCoordsX = function(coordsX) {
 
 NodeSVG.prototype.setCoordsY = function(coordsY) {
 	this.coordsY = coordsY;
+};
+
+NodeSVG.prototype.setId = function(id) {
+	this.id = id;
 };
 
 NodeSVG.prototype.setDescription = function(desc) {
@@ -56,6 +64,10 @@ NodeSVG.prototype.getCoordsX = function() {
 
 NodeSVG.prototype.getCoordsY = function() {
 	return this.coordsY;
+};
+
+NodeSVG.prototype.getId = function() {
+	return this.id;
 };
 
 NodeSVG.prototype.getDescription = function() {

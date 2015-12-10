@@ -1,6 +1,6 @@
 ﻿
 # readsvg
-just few javascripts to read .svg file
+Just few javascripts to read .svg file and put tham in spatial hash table.
 ------------------------------------------------------------------------------------
 
 nodesvg.js
@@ -22,9 +22,10 @@ It stores objects in table, so when you need to check for collision,
 you need to check only objects in same cell.
 ------------------------------------------------------------------------------------
 
-//TODO
--few more functions for SpatialTable
-function to get nodes from SpatialTable need a little tweak
+test.js, map.svg, index.html
+
+Was used for testing scripts to read .svg files correctly.
+You can check that files, to learn how to use that scripts.
 ------------------------------------------------------------------------------------
 
 Copyright (c) 2015 Marian Rohoška (marian.rohoska@seznam.cz)

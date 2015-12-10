@@ -8,7 +8,7 @@
 // Constructor for SpatialTable class
 function SpatialTable(cellSize) {
 	this.table = [];
-	if (cellSize >= 20)
+	if (cellSize > 20)
 		this.cellSize = cellSize;
 	else
 		this.cellSize = 20;
@@ -16,11 +16,11 @@ function SpatialTable(cellSize) {
 
 // return key for x, y coordinates
 SpatialTable.prototype.getKey = function(indexX, indexY) {
-	//no need to get SpatialTable.length or go through indexes, so no need for real hash function
-	return Math.round(indexX) + "," + Math.round(indexY);
+	//no need to get SpatialTable.length or go through table, so no need for real hash function
+	return indexX + "," + indexY;
 };
 
-// add NodeSVG to table
+// add node (NodeSVG) to table
 SpatialTable.prototype.addNode = function(nodeSVG) {
 	var x = this.getMinMaxIndex(nodeSVG.getCoordsX());
 	var y = this.getMinMaxIndex(nodeSVG.getCoordsY());
@@ -32,9 +32,33 @@ SpatialTable.prototype.addNode = function(nodeSVG) {
 		}
 };
 
+//add array of nodes (NodeSVG) to table
+SpatialTable.prototype.addNodes = function(nodes) {
+	for (var i = 0, l = nodes.length; i < l; i++)
+		this.addNode(nodes[i]);
+};
+
 // get Nodes from table on x, y coordinates
 SpatialTable.prototype.getNodesFromCoords = function(x, y) {
-	return this.table[this.getKey(x / this.cellSize, y / this.cellSize)];
+	x = Math.floor(x / this.cellSize);
+	y = Math.floor(y / this.cellSize);
+	return this.table[this.getKey(x, y)];
+};
+
+// get Nodes from table in area between x1, y1 - x2, y2 coordinates
+SpatialTable.prototype.getNodesFromArea = function(x1, y1, x2, y2) {
+	var x = this.getMinMaxIndex([x1, x2]);
+	var y = this.getMinMaxIndex([y1, y2]);
+	var nodes = [];
+	for (var i = x[0], xMax = x[1]; i <= xMax; i++)
+		for (var j = y[0], yMax = y[1]; j <= yMax; j++) {
+			var pNodes = this.table[this.getKey(i, j)];
+			if (pNodes != undefined)
+				for (var k = 0, pNodesMax = pNodes.length; k < pNodesMax; k++)
+					if (!this.includes(nodes, pNodes[k]))
+						nodes.push(pNodes[k]);
+		}
+	return nodes;
 };
 
 // return min and max index from coordinates
@@ -45,5 +69,15 @@ SpatialTable.prototype.getMinMaxIndex = function(coords) {
 		if (min > coords[i]) min = coords[i];
 		if (max < coords[i]) max = coords[i];
 	}
-	return [min / this.cellSize, max / this.cellSize];
+	min = Math.floor(min / this.cellSize);
+	max = Math.floor(max / this.cellSize);
+	return [min, max];
+};
+
+// check if array of NodeSVG includes node
+SpatialTable.prototype.includes = function(nodesSVG, node) {
+	for (var i = 0, l = nodesSVG.length; i < l; i++)
+		if (nodesSVG[i].getId() == node.getId())
+			return true;
+	return false;
 };
