@@ -42,7 +42,11 @@ SpatialTable.prototype.addNodes = function(nodes) {
 SpatialTable.prototype.getNodesFromCoords = function(x, y) {
 	x = Math.floor(x / this.cellSize);
 	y = Math.floor(y / this.cellSize);
-	return this.table[this.getKey(x, y)];
+	var nodes = this.table[this.getKey(x, y)];
+	if (nodes != undefined)
+		return nodes;
+	else
+		return [];
 };
 
 // get Nodes from table in area between x1, y1 - x2, y2 coordinates

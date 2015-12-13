@@ -21,14 +21,17 @@ NodeSVG.prototype.setCoords = function(svgPath) {
 		seg.x = Math.round(seg.x);
 		seg.y = Math.round(seg.y);
 		switch (seg.pathSegType) {
-			case 2:	//move to
-			case 3:	//move to
+			case 2:	//move to (absolute)
+			case 3:	//move to (first move to is  relative to [0,0], will not work if path is interrupted by this)
+			case 4: //line to (absolute)
+			case 6: //curve to (absolute)(just connects end points with line)
 				this.coordsX.push(seg.x);
 				this.coordsY.push(seg.y);
 				break;
-			case 5:	//line to
-				this.coordsX.push(this.coordsX[0] + seg.x);
-				this.coordsY.push(this.coordsY[0] + seg.y);
+			case 5:	//line to (relative)
+			case 7: //curve to (relative)(just connects end points with line)
+				this.coordsX.push(this.coordsX[i-1] + seg.x);
+				this.coordsY.push(this.coordsY[i-1] + seg.y);
 				break;
 		}
 	}

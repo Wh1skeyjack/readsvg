@@ -10,6 +10,7 @@ var walls = new SpatialTable(102);
 var objects = new SpatialTable(102);
 
 readFile("map.svg");
+
 printSplit("objects from area between points [800, 800] [1100, 1100]");
 printArrayOfNodes(objects.getNodesFromArea(800, 800, 1100, 1100));
 printSplit("walls from area between points [800, 800] [1100, 1100]");

@@ -1,4 +1,4 @@
-﻿/**
+/**
  * ReadSVG class
  * 
  * @license Copyright (c) 2015 Marian Rohoška (marian.rohoska@seznam.cz)
